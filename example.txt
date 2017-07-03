@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 5A3D-8580
+
+ Directory of D:\MyProj
+
+03-07-2017  PM 05:47    <DIR>          .
+03-07-2017  PM 05:47    <DIR>          ..
+03-07-2017  PM 05:46               334 example.t
+03-07-2017  PM 05:47                 0 example.txt
+               2 File(s)            334 bytes
+               2 Dir(s)  116,141,363,200 bytes free
